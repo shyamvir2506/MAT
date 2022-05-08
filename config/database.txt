@@ -1,0 +1,2 @@
+mongodb+srv://SuperAdmin:coder@123@cluster0.ythdp.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+mongodb+srv://Creative:coder@123@cluster0.bfzec.mongodb.net/myFirstDatabase?retryWrites=true&w=majority

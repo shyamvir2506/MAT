@@ -1,0 +1,5 @@
+{
+    "mongoURI1":"mongodb+srv://admin:coder@123@cluster0.r9z5j.mongodb.net/Data?retryWrites=true&w=majority",
+    "mongoURI2":"mongodb+srv://push:coder@123@cluster0.dqryz.mongodb.net/Data?retryWrites=true&w=majority",
+    "jwtSecret":"snap2016mk"
+}
