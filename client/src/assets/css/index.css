@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap');
+
+
+@font-face {
+    font-family: Bahnschrift;
+    src:url(../fonts/Bahnschrift.ttf);
+} 
+
+body {
+	padding:0;
+	margin:0;
+	font-family:'Bahnschrift';
+}
+
+label{
+	user-select: none;
+}
+
+.header {
+	width:100%;
+	display:flex;
+	flex-direction: column;
+	height: 60px;
+	background: cornflowerblue;
+	flex-direction: row;
+	justify-content: space-between;
+	color:white;
+}
+
+.dashboard {
+	width:100%;
+	display:flex;
+	flex-direction: column;
+	
+	.designers-list{
+		display:flex;
+		flex-direction: column;
+		height: 300px;
+		width: 400px;
+		overflow: hidden;
+	}
+
+	.list-item{
+		display:flex;
+		flex-direction: row;
+		width: 100%;
+		height: 50px;
+		margin-top:5px;
+		justify-content: space-between;
+		position: relative;
+	}
+}

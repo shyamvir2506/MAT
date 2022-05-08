@@ -1,0 +1,40 @@
+import { makeStyles } from '@material-ui/core/styles';
+
+export const CSSDeleteModel = makeStyles({
+    title:{
+        color:'red',
+        userSelect:'none'
+    },
+    deleteModel:{
+        width:400,
+        height:250,
+        display:'flex',
+        position:'absolute',
+        flexDirection:'column'
+    },
+    modelHeader:{
+        height:40,
+        display:'flex',
+        alignItems:'center',
+        backgroundColor:'#efefef',
+        justifyContent:'space-between',
+        paddingLeft:10
+    },
+    msg:{
+        fontSize:15,
+        lineHeight:1.5,
+        color:'grey',
+        margin:15,
+        height:100,
+        display:'flex',
+        alignItems:'center',
+        justifyContent:'center',
+        textAlign:'center',
+        userSelect:'none'
+    },
+    btnHolder:{
+        display:'flex',
+        justifyContent:'space-evenly',
+        alignItems:'center'
+    }
+})

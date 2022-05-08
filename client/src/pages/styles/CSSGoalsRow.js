@@ -1,0 +1,51 @@
+import { makeStyles } from '@material-ui/core/styles';
+
+export const CSSGoalsRow = makeStyles({
+    root:{
+        paddingBottom:20
+    },
+    col1:{
+        width:'100%',
+        alignItems:'flex-start'
+    },
+    label:{
+        height:30,
+        minWidth:'13%',
+        maxWidth:'15%',
+        display:'inline-block'
+    },
+    input:{
+        width:'30%',
+        height:30,
+        display:'inline-block',
+        fontSize:'14px'
+    },
+    inputList:{
+        width:'30%',
+        display:'inline-block',
+        fontSize:'14px',
+        height:'auto'
+    },
+    textAreaHolder:{
+        minWidth:'50%',
+        minHeight:'90px',
+        fontSize:'14px'
+    },
+    textArea:{
+        width:'98%',
+        minHeight:'70%'
+    },
+    heading:{
+        background:'#EEEEEE',
+        color:'black',
+        padding:5
+    },
+    subHeading:{
+        overflowY:'auto',
+        paddingTop:10,
+    },
+    row:{
+        marginTop:20,
+        fontSize:'14px'
+    }
+});

@@ -1,0 +1,217 @@
+{
+  "values": [
+    {
+      "id": "0",
+      "key": "PERFORMANCE",
+      "performance": [
+        {
+          "Quality of work": "",
+          "options":[
+            "Worked Exceptionally. Flawless aesthetic creatives throughout the quarter.",
+            "Created aesthetic creatives on his/her own consistently.",
+            "Created aesthetic creatives but required guidance at times.",
+            "Some aesthetics designs required periodic improvements.",
+            "Need to develop Aesthetic visualization & requires frequent monitoring.",
+            "Development ETA was reasonable.",
+            "Development ETA was exaggerated.",
+            "Improvement is required in Standard unit Conversion.",
+            "Improvement is required in Advanced unit Conversion.",
+            "Standard unit Conversion Delivered with slight guidance.",
+            "Advanced unit Conversion Delivered with slight guidance."
+          ],
+          "feedback":""
+        },
+        {
+          "Flawless Execution": "",
+          "options":[
+            "Zero QC fails both externally & internally.",
+            "Zero QC fails externally & few QC fails internally (low impact/not much gravity).",
+            "Both External & internal QC fails occurred in the quarter.",
+            "Number of External & internal QC fails are greater than 3 and impacted on quality/ETA.",
+            "QC fails in the quarter had strong gravity/impact.",
+            "Functionality created worked flawlessly. Functionality created had glitches.",
+            "Standard unit Conversion Perfectly Delivered.",
+            "Advanced unit Conversion Perfectly Delivered."
+          ],
+          "feedback":""
+        },
+        {
+          "Speedy execution": "",
+          "options":[
+            "Delivered before ETA & surpassed AM expectations most of the times.",
+            "Delivered before ETA & met AM expectations all the time.",
+            "Delivered before ETA but did not meet AM expectations on few occasions.",
+            "High speed & high accuracy.",
+            "High speed but low accuracy.",
+            "Slower speed. Need to improve speed.",
+            "High speed in some products and slow in some.",
+            "Internal ETA missed on campaigns sometimes.",
+            "Internal ETA missed on campaigns many times which impacted deliveries.",
+            "External ETA missed on campaigns."
+          ],
+          "feedback":""
+        }
+      ],
+      "rating": "NaN",
+      "feedback": ""
+    },
+    {
+      "id": "1",
+      "key": "JOB KNOWLEDGE",
+      "performance": [
+        {
+          "Product Knowledge": "",
+          "options":[
+            "Displayed comprehensive knowledge on all products.",
+            "Displayed good knowledge on all products.",
+            "Displayed good knowledge on few products.",
+            "Requires deeper understanding of VDX products.",
+            "Asks & learns new techniques related with features & products by his own.",
+            "Need to learn quick techniques related with features & products.",
+            "Services were impacted due to lack of product knowledge.",
+            "Need significant improvement in VDX products.",
+            "Need significant improvement in Non-VDX products.", 
+            "Need improvement in Technical QC.",
+            "Good in Technical QC."
+          ],
+          "feedback":""
+        },
+        {
+          "Process/Protocols knowledge": "",
+          "options":[
+            "Followed QC process diligently.",
+            "Missed Updating campaign files in box sometimes.",
+            "Timely updated campaign files in Box.",
+            "Displayed strong understanding of processes in all areas.",
+            "Displayed understanding of processes in all areas but missed few times.",
+            "Didn't work on declared goal.",
+            "Followed expo task process diligently.",
+            "Followed other activities like survey, 360 & other process without reminders.",
+            "Highlighted campaign issues following proper channels.",
+            "Jira ticket created with appropriate norms.",
+            "Jira tickets were NOT created appropriately.",
+            "Approval process was NOT FOLLOWED properly.",
+            "ETA communication was NOT updated on expo task.",
+            "Process understanding can be better in few areas."
+          ],
+          "feedback":""
+        }
+      ],
+      "rating": "NaN",
+      "feedback": ""
+    },
+    {
+      "id": "2",
+      "key": "POTENTIAL",
+      "performance": [
+        {
+          "Aptitude": "",
+          "options":[
+            "Displayed leadership aptitude.",
+            "Displayed creative aptitude.",
+            "Is very hardworking.",
+            "Has inclination towards innovation.",
+            "Possess problem solving aptitude.",
+            "Presents logical reasons during discussions.",
+            "Handled difficult conversation wisely and amiably.",
+            "Need more focus in few areas to gain skills."
+          ],
+          "feedback":""
+        },
+        {
+          "Efficient Communication": "",
+          "options":[
+            "Conveyed message effectively across groups.",
+            "Good command over English language (written and verbal) and manage all situations effectively with stakeholders.",
+            "Not very comfortable in spoken English for next level.",
+            "Is fluent but makes errors while communication. Needs improvement.",
+            "Errors occur often during written communications.",
+            "Conveys campaign related communication timely in chat & verbal.",
+            "Missed timely communication on chat, mail & verbal.",
+            "Is amiable during communication.",
+            "Is rude during communication in some cases.",
+            "Is unprofessional during communication.",
+            "Need to improve tone and word selection.",
+            "Response to queries was crisp and to the point.",
+            "Response to queries was vague."
+          ],
+          "feedback":""
+        },
+        {
+          "Initiative / Innovation ": "",
+          "options":[
+            "Took initiative in reaching out to AM for work most of the times.",
+            "Initiative taken to work extra hours during a demanding situation.",
+            "Takes initiative to handle complex campaigns.",
+            "Initiative towards QC'ng campaigns.",
+            "Did not take any initiative.",
+            "Did not took initiative even during a required situation.",
+            "Worked on innovative ideas or solution which is impactful.",
+            "Took initiative which positively impacted on team.", 
+            "Worked on feature innovation."
+          ],
+          "feedback":""
+        }
+      ],
+      "rating": "NaN",
+      "feedback": ""
+    },
+    {
+      "id": "3",
+      "key": "VALUES",
+      "performance": [
+        {
+          "Behaviour & Team player": "",
+          "options":[
+            "Helpful, Cooperative & collaborative.",
+            "Flexible and Adaptive with situations.",
+            "Not Flexible/Adaptive as per required situations.",
+            "Not Sensitive towards others.",
+            "Showed Confidence and professionalism in task.",
+            "Vocal about opinions.",
+            "Not very vocal about his opinion.",
+            "Casual in approach and required improvement.",
+            "Irresponsible behaviour noticed at times.",
+            "Insensitivity showed in few cases."
+          ],
+          "feedback":""
+        },
+        {
+          "Participation/Availability": "",
+          "options":[
+            "Strong avaibility. Appreciate it!",
+            "No complaints about avaibility.",
+            "Minor avaibility issues.",
+            "Major avaibility issues.",
+            "Required more participations in other important activities."
+          ],
+          "feedback":""
+        },
+        {
+          "ETHICS": "",
+          "options":[
+            "Displayed strong ethics across fields.",
+            "Lacked honesty, integrity & character in his work dealings.",
+            "Superficial Reasons of conflict or created difficult situation unnecessary.",
+            "Displayed doubtful/ dishonest behaviour."
+          ],
+          "feedback":""
+        }
+      ],
+      "rating": "NaN",
+      "feedback": ""
+    },
+    {
+      "id": "4",
+      "key": "Overall Rating/Feedback",
+      "performance": [
+        {
+          "Add Quarter's Rating and Feedback":"/",
+          "feedback":""
+        }
+      ],
+      "rating": "NaN",
+      "feedback": ""
+    }
+  ]
+}
